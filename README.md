@@ -1,4 +1,4 @@
-## Lab works done over 2 semesters of "System programming" on assembler.
+## Lab works done over 2 semesters of "System programming" in KPI on assembler.
 
 ### lab1.asm
 
